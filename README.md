@@ -1,2 +1,2 @@
 # AoiMukouRepo
-My repo for ios 15 ARM64 Rootless
+Author of repo: @9eror6 on TikTok, Subscribe!
