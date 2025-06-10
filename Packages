@@ -66,7 +66,7 @@ Description: Nice lockscreen customization for Snowboard
 Maintainer: CyPwn
 Author: Justin Proulx and Ayden Panhuyzen
 Section: Theme
-Depends: mobilesubstrate, preferenceloader, dev.ayden.ios.lib.sys.aurora (>= 1.0.2), ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
+Depends: com.anemonetheming.anemone, com.spark.snowboard
 Filename: debs/xyz.cypwn.jellyfish_1.6.5_iphoneos-arm64.deb
 Size: 117178
 MD5sum: b77dee13d03d68f464e42bfd4e25f915
