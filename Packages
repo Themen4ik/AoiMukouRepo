@@ -43,6 +43,52 @@ MD5sum: 4ffba8f73f3315a2a483b452b520d129
 SHA1: ac12c858be9fa5153836431f7371f34d78d30394
 SHA256: adb486617e2ce7d70bb989ac8450173e7d074433ea482f7c648bcfe9227d2a30
 
+Package: xyz.cypwn.solstice
+Name: Solstice
+Version: 3.0.6
+Architecture: iphoneos-arm64
+Description: iOS 18 icons for Snowboard
+Maintainer: CyPwn
+Author: Rifai
+Section: Theme
+Depends: com.anemonetheming.anemone, com.spark.snowboard
+Filename: debs/xyz.cypwn.solstice_3.0.6_iphoneos-arm64.deb
+Size: 60799804
+MD5sum: e22e430fe420a2b0792a5330b0c9f019
+SHA1: 37c3860daa5c71db27cbd0577eb4c983b39f27d5
+SHA256: 0675f2a547b5f0c04af16cf962fa087a4affc750a90713d7d8ccf78f82875a14
+
+Package: xyz.cypwn.jellyfish
+Name: JellyFish
+Version: 1.6.5
+Architecture: iphoneos-arm64
+Description: Nice lockscreen customization for Snowboard
+Maintainer: CyPwn
+Author: Justin Proulx and Ayden Panhuyzen
+Section: Theme
+Depends: mobilesubstrate, preferenceloader, dev.ayden.ios.lib.sys.aurora (>= 1.0.2), ws.hbang.alderis (>= 1.1), firmware (>= 11.0)
+Filename: debs/xyz.cypwn.jellyfish_1.6.5_iphoneos-arm64.deb
+Size: 117178
+MD5sum: b77dee13d03d68f464e42bfd4e25f915
+SHA1: fc32a3d7feb8ca8cd9f19c90cc958a34772a8883
+SHA256: b7e0ddcd21bf045ac02a0e03786ee09589ddde6ee381ab0c10a4476c30cca506
+
+Package: xyz.cypwn.classicplayer
+Name: ClassicPlayer
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Description: ipod style player
+Maintainer: CyPwn
+Author: Guillermo Moran
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/xyz.cypwn.classicplayer_1.0.3_iphoneos-arm64.deb
+Size: 57784406
+MD5sum: 5309f7e21fca87baeb6adcc919990a5d
+SHA1: 8083c2b87a1e275b50ac80b2c8f403bf682bc370
+SHA256: a27de6afde56637e9a2c3e4fb0f6b774756137c83a7f75403235c4526686714b
+
+
 Package: xyz.skitty.ersatz
 Name: Ersatz
 Version: 1.0.1
