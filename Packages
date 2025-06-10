@@ -80,7 +80,7 @@ Architecture: iphoneos-arm64
 Description: ipod style player
 Maintainer: CyPwn
 Author: Guillermo Moran
-Section: Tweaks
+Section: Apps
 Depends: mobilesubstrate, preferenceloader
 Filename: debs/xyz.cypwn.classicplayer_1.0.3_iphoneos-arm64.deb
 Size: 57784406
@@ -88,6 +88,20 @@ MD5sum: 5309f7e21fca87baeb6adcc919990a5d
 SHA1: 8083c2b87a1e275b50ac80b2c8f403bf682bc370
 SHA256: a27de6afde56637e9a2c3e4fb0f6b774756137c83a7f75403235c4526686714b
 
+Package: xyz.cypwn.anitime
+Name: AniTime
+Version: 1.0.1k
+Architecture: iphoneos-arm64
+Description: cute anime girls on lockscreen clocks
+Maintainer: CyPwn
+Author: Yan
+Section: Theme
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/xyz.cypwn.anitime_1.0.1k_iphoneos-arm64.deb
+Size: 598126
+MD5sum: 47096937b99c83703dfa6611d00e5a8e
+SHA1: 32cf4a5e687643489c3b06e7a5c1236868ce1726
+SHA256: 73b144e4c7d0fece45e0bef531b4b2b2b12dfde5479564a659eaf26f5e1ec699
 
 Package: xyz.skitty.ersatz
 Name: Ersatz
